@@ -7,4 +7,7 @@ class StaticPagesController < ApplicationController
   # This gus is an action too
   def help
   end
+
+  def about 
+  end
 end
