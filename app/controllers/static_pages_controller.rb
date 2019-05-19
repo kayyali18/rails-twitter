@@ -4,10 +4,13 @@ class StaticPagesController < ApplicationController
   def home
   end
 
-  # This gus is an action too
+  # This guy is an action too
   def help
   end
 
   def about 
   end
+
+  def contact
+  end 
 end
